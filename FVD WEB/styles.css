@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+.cajaalta {
+  text-align: center;
+  padding-top: 100px;
+  background-color: #051367;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #DFF6FF;
+  line-height: 0;
+  padding-bottom: 0px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #051367;
+  font-weight: normal
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8rem;
+  color: #2D31FA;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 400px;
+  bottom: 500px;
+}
+
+p {}
+
+.profile {
+  text-align: center;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  height: 50%;
+}
+
+.icono1 {
+  float: left;
+  margin-right: 30px;
+  width: 15%;
+  height: 15%;
+}
+
+.icono2 {
+  float: left;
+  margin-right: 30px;
+  width: 15%;
+  height: 15%;
+}
+
+.icono3 {
+  float: left;
+  margin-right: 30px;
+  width: 15%;
+  height: 15%;
+}
+
+.parraskill1{
+  line-height: 1.5;
+}
+
+.parraskill2{
+  line-height: 1.5;
+}
+
+.parraskill3{
+  line-height: 1.5;
+}
